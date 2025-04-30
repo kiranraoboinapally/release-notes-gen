@@ -19,7 +19,7 @@ After forking the repository, clone it to your local machine:
 git clone https://github.com/kiranraoboinapally/release-notes-gen.git
 cd release-notes-gen
 ```
-
+```
 ### 3. **Create a branch for your changes**
 We work with branches for each feature or bugfix, so always create a new branch when making changes:
 ```bash

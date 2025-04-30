@@ -1,4 +1,3 @@
-Absolutely! Here’s a complete and professional `README.md` for your **ReleaseNotesGen** project that you can copy directly into your GitHub repo:
 
 ---
 
@@ -169,6 +168,3 @@ For issues or feature requests, use [GitHub Issues](https://github.com/yourusern
 
 ```
 
----
-
-Let me know if you want a version with badges (build, license, last commit) or a `CONTRIBUTING.md` file too!

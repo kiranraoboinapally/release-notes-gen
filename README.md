@@ -162,8 +162,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📫 Contact
 
-Created by **@yourusername**  
-For issues or feature requests, use [GitHub Issues](https://github.com/yourusername/release-notes-gen/issues)
+Created by **@kiranraoboinapally**  
+For issues or feature requests, use [GitHub Issues](https://github.com/kiranraoboinapally/release-notes-gen/issues)
 
 ```
 

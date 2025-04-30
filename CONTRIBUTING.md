@@ -1,9 +1,8 @@
 
-```markdown
 # Contributing to ReleaseNotesGen
 
 First off, thank you for considering contributing to **ReleaseNotesGen**! We really appreciate your help in making this project better. By participating, you are helping us make **ReleaseNotesGen** more powerful, easier to use, and more inclusive.
-```
+
 ## 🚀 Getting Started
 
 If you're looking to get involved, you’re in the right place! Here’s how you can contribute:
@@ -94,7 +93,6 @@ A: It's helpful, but not required. If you're unsure, feel free to check open iss
 ## 🙏 Thank You!
 
 Thanks for considering contributing to **ReleaseNotesGen**! We appreciate your effort in helping make this project better for the community.
-```
 
 ---
 

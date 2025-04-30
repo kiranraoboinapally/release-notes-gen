@@ -3,7 +3,7 @@
 # Contributing to ReleaseNotesGen
 
 First off, thank you for considering contributing to **ReleaseNotesGen**! We really appreciate your help in making this project better. By participating, you are helping us make **ReleaseNotesGen** more powerful, easier to use, and more inclusive.
-
+```
 ## 🚀 Getting Started
 
 If you're looking to get involved, you’re in the right place! Here’s how you can contribute:
@@ -13,13 +13,14 @@ Fork the repo to your own GitHub account:
 - Navigate to the [ReleaseNotesGen GitHub repository](https://github.com/kiranraoboinapally/release-notes-gen).
 - Click on the **Fork** button at the top right of the page.
 
+
 ### 2. **Clone your forked repository**
 After forking the repository, clone it to your local machine:
 ```bash
 git clone https://github.com/kiranraoboinapally/release-notes-gen.git
 cd release-notes-gen
 ```
-```
+
 ### 3. **Create a branch for your changes**
 We work with branches for each feature or bugfix, so always create a new branch when making changes:
 ```bash

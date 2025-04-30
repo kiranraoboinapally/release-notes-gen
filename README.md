@@ -54,7 +54,7 @@ ReleaseNotesGen helps developers, release managers, and teams create structured,
 ### 🔧 Backend Setup (Spring Boot)
 
 ```bash
-git clone https://github.com/yourusername/release-notes-gen.git
+git clone https://github.com/kiranraoboinapally/release-notes-gen.git
 cd release-notes-gen/backend
 ```
 

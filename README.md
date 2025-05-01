@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🚀 ReleaseNotesGen
 
 **Auto-generate clean, customizable release notes** from GitHub commits, pull requests, and issues using a full-stack Spring Boot + React app.
@@ -164,6 +162,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Created by **@kiranraoboinapally**  
 For issues or feature requests, use [GitHub Issues](https://github.com/kiranraoboinapally/release-notes-gen/issues)
-
-```
 
